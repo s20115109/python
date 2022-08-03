@@ -18,7 +18,7 @@ LED2 = Pin(2, Pin.OUT)
 with open('data.txt','r') as f:
     num_s=f.read()
     num=int(num_s)
-    print('目前共有 ',num_s,'人次測試過')
+    print('目前共有 ',num_s,'人次測試過QQQQ')
 
 #f.close()
 color1='pink'
